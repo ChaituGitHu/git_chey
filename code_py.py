@@ -1,0 +1,2 @@
+input = a
+ print(input)
